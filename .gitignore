@@ -1,0 +1,38 @@
+# Environment variables
+.env
+.env.local
+
+# Cookies/auth
+cookies.txt
+
+#script folders
+loadeddiceshorts/
+lowpoly/
+
+# Models (re-downloadable)
+models/
+
+# Generated video clips
+*.webm
+
+# Build/temp outputs
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test / temp
+run-test262
+*.log
